@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>delta_robot</name>
+  <version>0.0.0</version>
+  <description>The delta_robot package</description>
+
+  <maintainer email="dahuilinyang@uma.es">Dahui</maintainer>
+
+  <license>BSD</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  
+  <depend>roscpp</depend>
+  <depend>std_msgs</depend>
+  <depend>sensor_msgs</depend>
+
+
+  <test_depend>rosunit</test_depend>
+  <export>
+
+  </export>
+</package>
+
